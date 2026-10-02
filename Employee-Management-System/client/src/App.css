@@ -1,0 +1,17 @@
+body {
+  background-color: #f5f6fa;
+}
+
+main {
+  padding-bottom: 3rem;
+}
+
+.table-responsive {
+  overflow-x: auto;
+}
+
+@media (max-width: 576px) {
+  h2 {
+    font-size: 1.35rem;
+  }
+}
