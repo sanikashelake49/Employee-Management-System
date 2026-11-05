@@ -3,7 +3,7 @@ import { validateEmployeeForm, isFormValid } from '../../utils/validation';
 
 const EMPTY_VALUES = {
   name: '',
-  email: '',
+  email: '', 
   mobile: '',
   country: '', 
   state: '',
